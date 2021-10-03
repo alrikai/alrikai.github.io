@@ -5,4 +5,4 @@
 layout: default 
 ---
 
-
+<embed src="https://alrikai.github.io/resources/CV.pdf" type="application/pdf"/>
