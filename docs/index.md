@@ -5,7 +5,11 @@
 layout: default 
 ---
 
-I am a computer vision generalist currently working as a software engineer at HOVER Inc.  
+I am a computer vision generalist currently working as a software engineer at HOVER Inc. 
+
+I like solving difficult problems and writing well engineered high performance systems, particularly involving video processing and analysis. 
+
+I have experience working across a range of platforms, from embedded to cloud systems, have performed academic research and written production computer vision systems, and have expertise that runs the gamut from deep learning to design patterns.  
 
  <ul>
   <li><a href="resources/CV.pdf">CV</a></li>
