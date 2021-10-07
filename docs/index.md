@@ -5,7 +5,7 @@
 layout: default 
 ---
 
-I am a computer vision generalist currently working as a software engineer at HOVER Inc. 
+I am a computer vision generalist currently working as a software engineer at <a href="https://www.hover.to">HOVER Inc</a>.
 
 I like solving difficult problems and writing well engineered high performance systems, particularly involving video processing and analysis. 
 
